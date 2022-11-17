@@ -1,1 +1,1 @@
-# Cookie-Catcher
+# Cookie Catcher
