@@ -1,1 +1,1 @@
-# The-Cookie-Catcher-Ultimate
+# Cookie-Catcher
