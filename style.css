@@ -1,0 +1,30 @@
+.titel{
+    position: relative;
+    margin-left: 35%;
+    color: aliceblue;
+    font-size: 500%;
+    z-index: 1;
+}
+.text1{
+    position: relative;
+    margin-left: 30%;
+    color: aliceblue;
+    font-size: 200%;
+    margin-top: 1000%;
+    z-index: 1;
+}
+
+.boden{
+    position: relative;
+    margin-top: 27vw;
+    color: aliceblue;
+    font-size: 150%;
+    z-index: 1;
+}
+
+.Homebutton{
+    position: relative;
+    left: 3vw;
+    top: -9vw;
+    width: 8%;
+}
